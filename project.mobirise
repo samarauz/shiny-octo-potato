@@ -12,7 +12,8 @@
     "versionFirst": "4.8.8",
     "siteFonts": [],
     "uniqCompNum": 3,
-    "versionPublish": "4.8.8"
+    "versionPublish": "4.8.8",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -114,7 +115,7 @@
                 "title": "Slide 2",
                 "contentAlign": "right",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
