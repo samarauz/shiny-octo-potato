@@ -163,12 +163,12 @@
         {
           "_params": {
             "token": "8471441976.727bfe1.8441388360db44be99e3e6a74473c65e",
-            "showTitle": false,
-            "layoutGridRadio": false,
+            "showTitle": true,
+            "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": "2",
             "showMoreButton": true,
-            "layoutSliderRadio": true,
+            "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
             "spacing": "11",
             "fullWidth": false,
@@ -182,8 +182,8 @@
             "overlayColor": "#8f99af",
             "overlayOpacity": "0.6"
           },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-danger\" href=\"#\" data-max-id=\"1898413062210450390_8471441976\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ko'proq</a>",
+          "title": "<b><i>Instagram sahifamizdagi eng so'ngi yangiliklar</i></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-danger\" href=\"#\" data-max-id=\"1898413114848794463_8471441976\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Ko'proq</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -191,7 +191,16 @@
             "Расширения"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-3"
+          "_anchor": "instagram-feed-block-3",
+          "_styles": {
+            ".inst__title I": {
+              "font-size": "25px",
+              "color": "#d9534f"
+            },
+            ".inst__title": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
