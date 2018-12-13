@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
@@ -10,8 +10,8 @@
   display: none !important;
 }
 #dropdown-menu-2btn-2 .navbar-brand a {
-  font-family: 'PT Serif', serif;
-  font-size: 60px;
+  font-family: 'Bitter', serif;
+  font-size: 30px;
 }
 #dropdown-menu-2btn-2 .nav .link,
 #dropdown-menu-2btn-2 .dropdown-item {
